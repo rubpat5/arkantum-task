@@ -2,8 +2,6 @@
 
 This is a solution for the Front-end Engineer Job application at Arkantum Labs.
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
