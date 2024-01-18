@@ -1,8 +1,14 @@
-# React + Vite
+# Arkantum task app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Arkantum task app gives the user the ability to search for ip addresses or domains with the help of IP Geolocation API by IPify and show the searched information and geolocation with the help of LeafletJS.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use the command below to install the dependencies and run the app on local machine.
+
+```bash
+yarn install
+```
+
+```bash
+yarn dev
